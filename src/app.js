@@ -33,6 +33,12 @@ function App() {
       <div className="app_container">Anh dang hoc git do nghe</div>
       <div className="app_container">Anh dang hoc git do nghe6</div>
       <div> conflick lan 2</div>
+      <div> conflick lan 3</div>
+      <div> conflick lan 4</div>
+      <div> conflick lan 5</div>
+      <div> bao cao lan 1</div>
+      <div> bao cao lan 2</div>
+      <div> bao cao lan 3</div>
     </div>
   );
 }
