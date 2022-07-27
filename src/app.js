@@ -25,7 +25,7 @@ function App() {
           languages={languagesSelector}
         />
         <RightComponents className="app_container_rightComponents" />
-        <div>conflick lai </div>
+        <div className="app_container">lỗi ghi đè rồi</div>
       </div>
     </div>
   );
