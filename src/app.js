@@ -33,10 +33,7 @@ function App() {
       <div> conflick lan 4</div>
       <div> conflick lan 5</div>
       <div> bao cao lan 1</div>
-      <div> bao cao lan 1</div>
-      <div> bao cao lan 1</div>
-      <div> bao cao lan 1</div>
-      <div> bao cao lan 1</div>
+      <div> bao cao lan 2</div>
     </div>
   );
 }
