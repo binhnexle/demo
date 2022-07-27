@@ -26,6 +26,7 @@ function App() {
         />
         <RightComponents className="app_container_rightComponents" />
       </div>
+      <div className="app_container">Anh dang hoc git do nghe</div>
     </div>
   );
 }
