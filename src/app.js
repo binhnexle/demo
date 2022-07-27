@@ -24,16 +24,10 @@ function App() {
           contact={contactSelector}
           languages={languagesSelector}
         />
-<<<<<<< HEAD
         <RightComponents className="app_container_rightComponents" />
         <div>Nhu vay la bi conflick roi ne</div>
-=======
-        <RightComponents className="app_container_rightComponents" />]
-        <div className="app_container">Co y de conflick nè</div>
->>>>>>> 228dea26076916277e0b068b629bf5fb1bbd8abc
-      </div>
- <div className="app_container">conflick lần 2 nè</div>
-
+        <div>Nhu vay la bi conflick lan 2 ne</div>
+        <div>Nhu vay la bi conflick lan 2 ne</div>
       </div>
     </div>
   );
