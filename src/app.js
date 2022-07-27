@@ -36,6 +36,7 @@ function App() {
       <div> bao cao lan 2</div>
       <div> bao cao lan 3</div>
       <div> bao cao lan 3</div>
+      <div> bao cao lan 3</div>
     </div>
   );
 }
