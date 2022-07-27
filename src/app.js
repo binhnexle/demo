@@ -25,6 +25,10 @@ function App() {
           languages={languagesSelector}
         />
         <RightComponents className="app_container_rightComponents" />
+        <div className="app_container">lỗi ghi đè rồi</div>
+        <div className="app_container">conflick lan 1</div>
+        <div className="app_container">conflick 1</div>
+        <div className="app_container">conflick 1</div>
       </div>
       <div className="app_container">Anh dang hoc git do nghe</div>
       <div className="app_container">Anh dang hoc git do nghe6</div>
