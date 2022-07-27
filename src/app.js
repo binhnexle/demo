@@ -26,6 +26,7 @@ function App() {
         />
         <RightComponents className="app_container_rightComponents" />
         <div className="app_container">lỗi ghi đè rồi</div>
+<div className="app_container">conflick 1</div>
       </div>
     </div>
   );
