@@ -28,6 +28,8 @@ function App() {
         <div>Nhu vay la bi conflick roi ne</div>
         <div>Nhu vay la bi conflick lan 2 ne</div>
         <div>Nhu vay la bi conflick lan 2 ne</div>
+
+<div> conflick lần 1</div>
       </div>
     </div>
   );
