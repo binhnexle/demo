@@ -30,6 +30,7 @@ function App() {
         <div className="app_container">Co y de conflick nè</div>
       </div>
       <div className="app_container">Anh dang hoc git do nghe</div>
+      <div className="app_container">Anh dang hoc git do nghe</div>
     </div>
   );
 }
