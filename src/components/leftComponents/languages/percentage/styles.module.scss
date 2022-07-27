@@ -1,0 +1,25 @@
+.container_content {
+  display: flex;
+  flex-direction: column;
+
+  .container_content_title {
+    text-transform: uppercase;
+    text-align: start;
+    margin: 5px 0;
+  }
+  .container_content_percentage {
+    display: flex;
+    .content_percentage_showPercentage {
+      height: 10px;
+      background-color: #f2a728;
+      border-top-left-radius: 5px;
+      border-bottom-left-radius: 5px;
+    }
+    .content_percentage_hidePercentage {
+      height: 10px;
+      background-color: white;
+      border-top-right-radius: 5px;
+      border-bottom-right-radius: 5px;
+    }
+  }
+}
