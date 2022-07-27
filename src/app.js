@@ -26,8 +26,6 @@ function App() {
         />
         <RightComponents className="app_container_rightComponents" />
         <div>Nhu vay la bi conflick roi ne</div>
-        <div>Nhu vay la bi conflick lan 2 ne</div>
-        <div>Nhu vay la bi conflick lan 2 ne</div>
       </div>
     </div>
   );
