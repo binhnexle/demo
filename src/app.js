@@ -32,6 +32,9 @@ function App() {
         <div className="app_container">Co y de conflick nè</div>
 >>>>>>> 228dea26076916277e0b068b629bf5fb1bbd8abc
       </div>
+ <div className="app_container">conflick lần 2 nè</div>
+
+      </div>
     </div>
   );
 }
