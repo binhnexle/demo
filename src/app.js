@@ -27,7 +27,7 @@ function App() {
         <RightComponents className="app_container_rightComponents" />
       </div>
       <div className="app_container">Anh dang hoc git do nghe</div>
-      <div className="app_container">Anh dang hoc git do nghe2</div>
+      <div className="app_container">Anh dang hoc git do nghe6</div>
       <div> conflick lan 2</div>
     </div>
   );
