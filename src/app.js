@@ -25,6 +25,7 @@ function App() {
           languages={languagesSelector}
         />
         <RightComponents className="app_container_rightComponents" />
+        <div>Nhu vay la bi conflick roi ne</div>
       </div>
     </div>
   );
