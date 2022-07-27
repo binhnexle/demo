@@ -24,7 +24,8 @@ function App() {
           contact={contactSelector}
           languages={languagesSelector}
         />
-        <RightComponents className="app_container_rightComponents" />
+        <RightComponents className="app_container_rightComponents" />]
+        <div className="app_container">Co y de conflick nè</div>
       </div>
     </div>
   );
